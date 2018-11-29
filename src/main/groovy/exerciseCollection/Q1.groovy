@@ -1,7 +1,4 @@
 package exerciseCollection
-
-import javafx.scene.effect.SepiaTone
-
 // q1 Initialize an empty list and give the output of the following code:
 //l[11] = "myelement"
 //println l[11]
